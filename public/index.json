@@ -1,0 +1,8 @@
+{
+  "name": "Kianv uLinux (Tiny Tapeout 6)",
+  "flash_files": [
+    { "offset": 1048576, "name": "bootloader.bin" },
+    { "offset": 1572864, "name": "kianv.dtb" },
+    { "offset": 2097152, "name": "Image" }
+  ]
+}

@@ -1,0 +1,8 @@
+Built from https://github.com/splinedrive/kianRiscV
+Revision 963b65c09f06fee5b5583a3119fc1c23bcfcc0f8
+
+with the following options:
+
+CPU_FREQ=30000000
+SPI_FREQ=10000000 
+BAUDRATE=115200
