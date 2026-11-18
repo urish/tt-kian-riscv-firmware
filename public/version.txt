@@ -6,3 +6,7 @@ with the following options:
 CPU_FREQ=30000000
 SPI_FREQ=10000000 
 BAUDRATE=115200
+
+bootloader.bin (2026-11-18) adds the faster kernel copy from kianRiscV
+a838444 (https://github.com/splinedrive/kianRiscV/pull/19, 32-bit words,
+8 per iteration): the Image loads in about 6 s instead of about 1 minute.
